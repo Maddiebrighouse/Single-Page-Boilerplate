@@ -1,0 +1,42 @@
+{  
+    "title": " Single Page Application (SPA) Template",
+    "description": "This is my site",
+    "favicon": "favicon.ico",
+    "images": [{
+        "name": "logo",
+        "src": "logo.png",
+        "alt": "Logo",
+        "page": "Landing"
+    }],
+    "design": {
+        "colors": {
+            "primary": "#000000",
+            "secondary": "#ffffff",
+            "accent": "#ff0000"
+        },
+        "fonts": {
+            "primary": "Arial",
+            "secondary": "Arial"
+        }
+    },
+    "pages": [
+        {
+            "title": "Landing",
+            "type": "LandingPage"
+
+        },
+        {
+            "title": "Work",
+            "type": "WorkPage"
+        },
+        {
+            "title": "About",
+            "type": "AboutPage"
+        },
+        {
+            "title": "Contact",
+            "type": "ContactPage"
+        }
+    ]
+
+}
