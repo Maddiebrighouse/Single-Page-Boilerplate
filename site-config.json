@@ -4,7 +4,7 @@
     "favicon": "favicon.ico",
     "images": [{
         "name": "logo",
-        "src": "logo.png",
+        "src": "https://icon-library.com/images/old-computer-icon/old-computer-icon-8.jpg",
         "alt": "Logo",
         "page": "Landing"
     }],
